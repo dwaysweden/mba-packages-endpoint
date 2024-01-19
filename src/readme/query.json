@@ -1,0 +1,452 @@
+[
+  {
+    "id": 19695,
+    "title": "Serviceinredning BxDxH 1241x300x890 mm",
+    "debiting": 6,
+    "description": "<p>Lite beskrivande text om paketet.</p>",
+    "image": "7bc888dc-34c3-496c-9dc2-6dc1e1718474",
+    "imageUrl": "https://sessdnd.systemedstrom.com/Images/FPackages/LEFT/F41600.jpg",
+    "number": "SYE-F41600-LEFT",
+    "position": "LEFT",
+    "price": null,
+    "supplierEstimatedTime": "2.10",
+    "supplierModelDescription": "Caddy -20",
+    "articles": [
+      {
+        "quantity": 3,
+        "total": "2760.00",
+        "articles_id": {
+          "article_number": "SYE-1616",
+          "article_group_id": null,
+          "discountId": null,
+          "title": "Hylla 300x1176 mm",
+          "unitPrice": "920.00",
+          "image": null,
+          "supplier": 4
+        }
+      },
+      {
+        "quantity": 1,
+        "total": "625.00",
+        "articles_id": {
+          "article_number": "SYE-2004",
+          "article_group_id": null,
+          "discountId": null,
+          "title": "Hyllstege 300x890 mm",
+          "unitPrice": "625.00",
+          "image": null,
+          "supplier": 4
+        }
+      },
+      {
+        "quantity": 1,
+        "total": "674.00",
+        "articles_id": {
+          "article_number": "SYE-2005",
+          "article_group_id": null,
+          "discountId": null,
+          "title": "Hyllstege 300x505/890 mm",
+          "unitPrice": "674.00",
+          "image": null,
+          "supplier": 4
+        }
+      },
+      {
+        "quantity": 1,
+        "total": "316.00",
+        "articles_id": {
+          "article_number": "SYE-2100",
+          "article_group_id": null,
+          "discountId": null,
+          "title": "Panelplåt 300x505 mm",
+          "unitPrice": "316.00",
+          "image": null,
+          "supplier": 4
+        }
+      },
+      {
+        "quantity": 1,
+        "total": "388.00",
+        "articles_id": {
+          "article_number": "SYE-5501",
+          "article_group_id": null,
+          "discountId": null,
+          "title": "Monteringssats 1",
+          "unitPrice": "388.00",
+          "image": null,
+          "supplier": 4
+        }
+      },
+      {
+        "quantity": 3,
+        "total": "171.00",
+        "articles_id": {
+          "article_number": "SYE-6616",
+          "article_group_id": null,
+          "discountId": null,
+          "title": "Gummimatta 298x1172 mm",
+          "unitPrice": "57.00",
+          "image": null,
+          "supplier": 4
+        }
+      }
+    ],
+    "supplier": {
+      "name": "System Edström Bilinredningar AB"
+    },
+    "brands": [
+      {
+        "brands_id": {
+          "id": 485,
+          "value": "Volkswagen Transportbilar"
+        }
+      }
+    ],
+    "categories": [
+      {
+        "categories_id": {
+          "id": 1,
+          "title": "Inredning"
+        }
+      },
+      {
+        "categories_id": {
+          "id": 5,
+          "title": "Kampanj"
+        }
+      }
+    ],
+    "images": [
+      {
+        "packages_files_id": "7bc888dc-34c3-496c-9dc2-6dc1e1718474"
+      },
+      {
+        "packages_files_id": "f6a1cadb-e39d-4ba6-8b8e-0e378ab14bae"
+      },
+      {
+        "packages_files_id": "6bdef2f2-5fa4-4b08-b585-2f95b5d0bd7c"
+      }
+    ],
+    "labor": [
+      {
+        "labor_number": "AZ",
+        "title": "Montering Inredning",
+        "quantity": 1,
+        "time": "1.24"
+      }
+    ],
+    "modelCodes": [
+      {
+        "models_codes_code": {
+          "code": "SBA"
+        }
+      },
+      {
+        "models_codes_code": {
+          "code": "SBB"
+        }
+      },
+      {
+        "models_codes_code": {
+          "code": "SBH"
+        }
+      }
+    ],
+    "models": [
+      {
+        "models_id": {
+          "id": 1701,
+          "model": "Caddy"
+        }
+      }
+    ],
+    "relatedPackages": [
+      {
+        "related_packages_id": {
+          "id": 19696,
+          "number": "SYE-F41600-RIGHT",
+          "supplier": 4,
+          "supplierEstimatedTime": "2.10",
+          "title": "Serviceinredning BxDxH 1241x300x890 mm",
+          "labor": [],
+          "articles": [
+            {
+              "quantity": 3,
+              "total": "2760.00",
+              "articles_id": {
+                "article_number": "SYE-1616",
+                "article_group_id": null,
+                "discountId": null,
+                "title": "Hylla 300x1176 mm",
+                "unitPrice": "920.00",
+                "image": null,
+                "supplier": 4
+              }
+            },
+            {
+              "quantity": 1,
+              "total": "625.00",
+              "articles_id": {
+                "article_number": "SYE-2004",
+                "article_group_id": null,
+                "discountId": null,
+                "title": "Hyllstege 300x890 mm",
+                "unitPrice": "625.00",
+                "image": null,
+                "supplier": 4
+              }
+            },
+            {
+              "quantity": 1,
+              "total": "674.00",
+              "articles_id": {
+                "article_number": "SYE-2005",
+                "article_group_id": null,
+                "discountId": null,
+                "title": "Hyllstege 300x505/890 mm",
+                "unitPrice": "674.00",
+                "image": null,
+                "supplier": 4
+              }
+            },
+            {
+              "quantity": 1,
+              "total": "316.00",
+              "articles_id": {
+                "article_number": "SYE-2100",
+                "article_group_id": null,
+                "discountId": null,
+                "title": "Panelplåt 300x505 mm",
+                "unitPrice": "316.00",
+                "image": null,
+                "supplier": 4
+              }
+            },
+            {
+              "quantity": 1,
+              "total": "388.00",
+              "articles_id": {
+                "article_number": "SYE-5501",
+                "article_group_id": null,
+                "discountId": null,
+                "title": "Monteringssats 1",
+                "unitPrice": "388.00",
+                "image": null,
+                "supplier": 4
+              }
+            },
+            {
+              "quantity": 3,
+              "total": "171.00",
+              "articles_id": {
+                "article_number": "SYE-6616",
+                "article_group_id": null,
+                "discountId": null,
+                "title": "Gummimatta 298x1172 mm",
+                "unitPrice": "57.00",
+                "image": null,
+                "supplier": 4
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": 19695,
+    "title": "Serviceinredning BxDxH 1241x300x890 mm",
+    "debiting": 6,
+    "description": "<p>Lite beskrivande text om paketet.</p>",
+    "image": "7bc888dc-34c3-496c-9dc2-6dc1e1718474",
+    "imageUrl": "https://sessdnd.systemedstrom.com/Images/FPackages/LEFT/F41600.jpg",
+    "number": "SYE-F41600-LEFT",
+    "position": "LEFT",
+    "price": null,
+    "supplierEstimatedTime": "2.10",
+    "supplierModelDescription": "Caddy -20",
+    "articles": [
+      {
+        "quantity": 3,
+        "total": "2760.00",
+        "article_number": "SYE-1616",
+        "article_group_id": null,
+        "discountId": null,
+        "title": "Hylla 300x1176 mm",
+        "unitPrice": "920.00",
+        "image": null,
+        "supplier": 4
+      },
+      {
+        "quantity": 1,
+        "total": "625.00",
+        "article_number": "SYE-2004",
+        "article_group_id": null,
+        "discountId": null,
+        "title": "Hyllstege 300x890 mm",
+        "unitPrice": "625.00",
+        "image": null,
+        "supplier": 4
+      },
+      {
+        "quantity": 1,
+        "total": "674.00",
+        "article_number": "SYE-2005",
+        "article_group_id": null,
+        "discountId": null,
+        "title": "Hyllstege 300x505/890 mm",
+        "unitPrice": "674.00",
+        "image": null,
+        "supplier": 4
+      },
+      {
+        "quantity": 1,
+        "total": "316.00",
+        "article_number": "SYE-2100",
+        "article_group_id": null,
+        "discountId": null,
+        "title": "Panelplåt 300x505 mm",
+        "unitPrice": "316.00",
+        "image": null,
+        "supplier": 4
+      },
+      {
+        "quantity": 1,
+        "total": "388.00",
+        "article_number": "SYE-5501",
+        "article_group_id": null,
+        "discountId": null,
+        "title": "Monteringssats 1",
+        "unitPrice": "388.00",
+        "image": null,
+        "supplier": 4
+      },
+      {
+        "quantity": 3,
+        "total": "171.00",
+        "article_number": "SYE-6616",
+        "article_group_id": null,
+        "discountId": null,
+        "title": "Gummimatta 298x1172 mm",
+        "unitPrice": "57.00",
+        "image": null,
+        "supplier": 4
+      }
+    ],
+    "supplier": "System Edström Bilinredningar AB",
+    "brands": [
+      {
+        "id": 485,
+        "value": "Volkswagen Transportbilar"
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "title": "Inredning"
+      },
+      {
+        "id": 5,
+        "title": "Kampanj"
+      }
+    ],
+    "images": [
+      "7bc888dc-34c3-496c-9dc2-6dc1e1718474",
+      "f6a1cadb-e39d-4ba6-8b8e-0e378ab14bae",
+      "6bdef2f2-5fa4-4b08-b585-2f95b5d0bd7c"
+    ],
+    "labor": [
+      {
+        "labor_number": "AZ",
+        "title": "Montering Inredning",
+        "quantity": 1,
+        "time": "1.24"
+      }
+    ],
+    "modelCodes": ["SBA", "SBB", "SBH"],
+    "models": [
+      {
+        "id": 1701,
+        "model": "Caddy"
+      }
+    ],
+    "relatedPackages": [
+      {
+        "id": 19696,
+        "number": "SYE-F41600-RIGHT",
+        "supplier": 4,
+        "supplierEstimatedTime": "2.10",
+        "title": "Serviceinredning BxDxH 1241x300x890 mm",
+        "labor": [],
+        "articles": [
+          {
+            "quantity": 3,
+            "total": "2760.00",
+            "article_number": "SYE-1616",
+            "article_group_id": null,
+            "discountId": null,
+            "title": "Hylla 300x1176 mm",
+            "unitPrice": "920.00",
+            "image": null,
+            "supplier": 4
+          },
+          {
+            "quantity": 1,
+            "total": "625.00",
+            "article_number": "SYE-2004",
+            "article_group_id": null,
+            "discountId": null,
+            "title": "Hyllstege 300x890 mm",
+            "unitPrice": "625.00",
+            "image": null,
+            "supplier": 4
+          },
+          {
+            "quantity": 1,
+            "total": "674.00",
+            "article_number": "SYE-2005",
+            "article_group_id": null,
+            "discountId": null,
+            "title": "Hyllstege 300x505/890 mm",
+            "unitPrice": "674.00",
+            "image": null,
+            "supplier": 4
+          },
+          {
+            "quantity": 1,
+            "total": "316.00",
+            "article_number": "SYE-2100",
+            "article_group_id": null,
+            "discountId": null,
+            "title": "Panelplåt 300x505 mm",
+            "unitPrice": "316.00",
+            "image": null,
+            "supplier": 4
+          },
+          {
+            "quantity": 1,
+            "total": "388.00",
+            "article_number": "SYE-5501",
+            "article_group_id": null,
+            "discountId": null,
+            "title": "Monteringssats 1",
+            "unitPrice": "388.00",
+            "image": null,
+            "supplier": 4
+          },
+          {
+            "quantity": 3,
+            "total": "171.00",
+            "article_number": "SYE-6616",
+            "article_group_id": null,
+            "discountId": null,
+            "title": "Gummimatta 298x1172 mm",
+            "unitPrice": "57.00",
+            "image": null,
+            "supplier": 4
+          }
+        ]
+      }
+    ]
+  }
+]
